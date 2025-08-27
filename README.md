@@ -23,3 +23,4 @@ Made the navigation bar smooth scroll to different sections.
 Displayed a dynamic typing effect in the header (e.g., “Hi, I’m Ritul, a Web Developer | Researcher | Student”).
 Added a project filtering effect (user can filter projects by category if needed).
 Implemented a contact form validation (ensuring proper input before submission).
+website link- https://ritul307.github.io/PORTFOLIO/
